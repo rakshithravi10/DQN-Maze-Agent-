@@ -1,4 +1,4 @@
-# DQN Maze Agent 🧠
+# DQN Maze Agent 
 
 This project implements a Deep Q-Network (DQN) agent trained to solve a custom 2D continuous maze environment using PyTorch and Gymnasium.
 
