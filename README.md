@@ -90,5 +90,5 @@ Master's Student – AI Engineering of Autonomous Systems @ THI
 
 ---
 
-For any questions or collaborations, feel free to connect via [LinkedIn](https://www.linkedin.com/in/rakshithravi10).
+For any questions or collaborations, feel free to connect via [LinkedIn](www.linkedin.com/in/rakshith-ravi10).
 
